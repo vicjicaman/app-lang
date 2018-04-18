@@ -1,11 +1,11 @@
 {
   "fullname": "@nebulario/app-lang",
-  "version": "",
+  "version": "1.0.0-master",
   "repository": {
     "url": "github.com:vicjicaman/app-lang.git",
     "upstream": {}
   },
-  "labels":{
+  "labels": {
     "type": "npm"
   }
 }
