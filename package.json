@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/app-lang",
-  "version": "0.0.0",
+  "version": "1.0.0-master",
   "description": "Lang components and utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/app-form.git",
@@ -35,11 +35,7 @@
     "webpack": "^3.10.0",
     "webpack-bundle-analyzer": "^2.9.1",
     "webpack-node-externals": "^1.6.0",
-    "deepmerge": "^2.0.1",
     "moment": "^2.20.1",
-    "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-intl": "^2.4.0",
     "recompose": "^0.26.0"
   },
   "scripts": {
