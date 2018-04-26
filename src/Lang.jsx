@@ -8,7 +8,7 @@ import {compose, withProps, getContext, withContext} from 'recompose';
 const flags = {
   mx: {
     lang: 'es',
-    code: 'es-mx'
+    code: 'es-mxs'
   },
   us: {
     lang: 'en',

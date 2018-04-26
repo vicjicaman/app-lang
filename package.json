@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/app-lang",
-  "version": "1.0.0-master",
+  "version": "1.0.10-master",
   "description": "Lang components and utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/app-form.git",
